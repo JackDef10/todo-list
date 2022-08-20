@@ -1,0 +1,29 @@
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+    width: 100%;
+    height: 100%;
+    margin:0;
+
+}
+
+h1{
+    margin:0;
+}
+
+.main{
+    margin: 0 60px;
+    display: block;
+    padding: 400px 0px;
+    
+}
+
+.container{
+    margin: 0 60px;
+    padding: 0 60px;
+    max-width: 1400px;
+    margin:auto;
+    display: block;
+    background-color: aqua;
+}
